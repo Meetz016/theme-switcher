@@ -45,6 +45,3 @@ npm install
 
 ## Customization
 Modify theme colors in `tailwind.config.js`
-
-## License
-MIT
